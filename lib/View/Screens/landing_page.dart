@@ -119,7 +119,7 @@ class _LandingPageState extends State<LandingPage> {
               style: TextStyle(
                 fontWeight: FontWeight.w600,
                 fontSize: 18,
-                color: Color(0xFF1976D2), // Blue text color
+                color: Color(0xFF1976D2),
               ),
             ),
           ),
