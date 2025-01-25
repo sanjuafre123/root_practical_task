@@ -29,8 +29,14 @@
 - Products by Category API: Fetches product details for a selected category.
 - Carousel API: Provides the data for the brand carousel.
 
-<img src="https://github.com/user-attachments/assets/90ff356e-7eb3-47c3-9bbd-d5a38384fe8a" height = 65% width = 25%>
-<img src="https://github.com/user-attachments/assets/7b7d2f2e-f211-4f23-90c0-6034e974ada9" height = 65% width = 25%>
-<img src="https://github.com/user-attachments/assets/f0595580-96f1-48ce-be01-cf2e7ae04890" height = 65% width = 25%>
+<img src="https://github.com/user-attachments/assets/90ff356e-7eb3-47c3-9bbd-d5a38384fe8a" height = 65% width = 23%>
+<img src="https://github.com/user-attachments/assets/7b7d2f2e-f211-4f23-90c0-6034e974ada9" height = 65% width = 23%>
+<img src="https://github.com/user-attachments/assets/f0595580-96f1-48ce-be01-cf2e7ae04890" height = 65% width = 23%>
+
+## 👇E-commerce Mobile App Video 👇
+
+https://github.com/user-attachments/assets/33f2dd7f-4c39-4c05-aa30-7a72c2850ad9
+
+
 
 
