@@ -196,14 +196,6 @@ class _LandingPageState extends State<LandingPage> {
                                   textAlign: TextAlign.center,
                                 ),
                                 const SizedBox(height: 5),
-                                Text(
-                                  category.storeCategoryId,
-                                  style: const TextStyle(
-                                    fontSize: 12,
-                                    color: Colors.white70,
-                                  ),
-                                  textAlign: TextAlign.center,
-                                ),
                               ],
                             ),
                           ),
